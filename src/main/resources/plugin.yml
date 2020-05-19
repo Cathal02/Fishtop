@@ -1,0 +1,11 @@
+name: Fishtop
+version: ${project.version}
+main: org.cathal02.fishtop.Fishtop
+api-version: 1.13
+commands:
+  fishtop:
+    usage: /fishtop
+    description: Opens the fishtop menu!
+    aliases:
+      - ft
+      - ftop

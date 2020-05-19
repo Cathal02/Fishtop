@@ -1,0 +1,15 @@
+inventoryName: "&c&lFish Top"
+rightArrowDisplayName: "&dPage %pageNumber >"
+leftArrowDisplayName: "&d < Page %pageNumber"
+itemDisplayName: "&d%playername"
+itemLore:
+  - "&dRank: %rank"
+  - "&dFishCaught: %fishCaught"
+
+
+
+sqlHost: "localhost"
+port: 3306
+database: "LocalDatabase"
+username: "root"
+password: ""
